@@ -1,0 +1,12 @@
+Fin
+Variable xs : float ;
+xs = "1.2" ;
+Lie ( v  ;
+Si ( x >= 0 ) alorgs 
+Ecrire ( x )
+Finsi
+Sinon
+Variable y : char ;
+y = "1.2" 
+ bonjour tout le monde
+Ecrire ( v ) ;
